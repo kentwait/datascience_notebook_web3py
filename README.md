@@ -1,8 +1,14 @@
 # Jupyter datascience notebook + web3.py container 
 
+
+
 ## Build and run for the first time
 
-    unzip jupyter_web3py.zip
+Download this repository  
+https://github.com/kentwait/datascience_notebook_web3py
+
+Change directory and launch using `docker-compose`.
+
     cd jupyter_web3py
     docker-compose up -d
 
