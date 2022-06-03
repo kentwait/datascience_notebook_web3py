@@ -7,7 +7,7 @@ https://github.com/kentwait/datascience_notebook_web3py
 
 Change directory and launch using `docker-compose`.
 
-    cd jupyter_web3py
+    cd datascience_notebook_web3py
     docker-compose up -d
 
 ## Run
