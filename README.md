@@ -21,6 +21,6 @@ Open web browser to http://localhost:10000/
 
     docker container ls
 
-Look for container image name "jupyter_web3py_notebook" and copy the container ID
+Look for container image name "datascience_notebook_web3py" and copy the container ID
 
     docker kill {container ID}
