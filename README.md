@@ -1,7 +1,5 @@
 # Jupyter datascience notebook + web3.py container 
 
-
-
 ## Build and run for the first time
 
 Download this repository  
@@ -16,6 +14,8 @@ Change directory and launch using `docker-compose`.
 
     cd jupyter_web3py
     docker-compose up -d
+
+Open web browser to http://localhost:10000/
 
 ## Remove
 
